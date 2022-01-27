@@ -13,9 +13,9 @@ export default function DetailsView({ data }) {
 			const checkString = /\.(mp3|mp4)$/i.test(queryData);
 
 			if (checkString) {
-				setState({ videoType: "mp4", videourl: queryString.get("v") });
+				setState({ videoType: "mp4", videourl: queryData });
 			} else {
-				setState({ videoType: "youtube", videourl: queryString.get("v") });
+				setState({ videoType: "youtube", videourl: queryData });
 			}
 		} else {
 			setState({ videoType: null });
