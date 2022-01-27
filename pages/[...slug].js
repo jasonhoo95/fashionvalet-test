@@ -8,7 +8,6 @@ export default function ProductDetails({ data, type }) {
 		listData: [],
 	});
 	useEffect(() => {
-		console.log(data, "fetch data");
 		setState({ listData: data });
 	}, [data]);
 	return (
@@ -38,31 +37,29 @@ ProductDetails.getInitialProps = async (ctx) => {
 	if (query.slug.length >= 2) {
 		if (query.slug[0] == "dickies") {
 			const data1 = await axios.get("/dickies.json");
-			console.log(data1.data.data);
 
 			const finaldata = _.find(data1.data.data, function (o) {
 				return o.url_key.substring(o.url_key.lastIndexOf("/") + 1) == query.slug[1];
 			});
-			console.log(finaldata);
+
 			return { data: finaldata, type: "details" };
 		} else {
 			const data1 = await axios.get("/co-ords.json");
-			console.log(data1.data.data);
 
 			const finaldata = _.find(data1.data.data, function (o) {
 				return o.url_key.substring(o.url_key.lastIndexOf("/") + 1) == query.slug[1];
 			});
-			console.log(finaldata);
+
 			return { data: finaldata, type: "details" };
 		}
 	} else {
 		if (query.slug[0] == "dickies") {
 			const data1 = await axios.get("/dickies.json");
-			console.log(data1.data.data);
+
 			return { data: data1.data.data, type: "dickies" };
 		} else {
 			const data1 = await axios.get("/co-ords.json");
-			console.log(data1.data.data);
+
 			return { data: data1.data.data, type: "coords" };
 		}
 	}

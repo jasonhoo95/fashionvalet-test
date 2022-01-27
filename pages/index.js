@@ -4,11 +4,6 @@ import styles from "../styles/Home.module.css";
 import axios from "axios";
 import { useEffect, useState } from "react";
 export default function Home() {
-	const [state, setState] = useState({
-		dickies: [],
-		coords: [],
-	});
-
 	return (
 		<div>
 			<div className="text-center font-bold headerTag">FASHION VALET</div>

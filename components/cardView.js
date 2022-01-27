@@ -7,7 +7,7 @@ export default function CardView({ data, type }) {
 
 		const lastSegment = urlparam.substring(urlparam.lastIndexOf("/") + 1);
 
-		console.log(lastSegment); // "playlist"
+		// "playlist"
 		setUrl(lastSegment);
 	}, []);
 	return (

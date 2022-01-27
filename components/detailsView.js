@@ -6,13 +6,12 @@ export default function DetailsView({ data }) {
 		videoType: "",
 	});
 	useEffect(() => {
-		console.log(data.video, "video loaded");
 		if (data.video) {
 			let paramString = data.video.split("?")[1];
 			let queryString = new URLSearchParams(paramString);
 			const queryData = queryString.get("v");
 			const checkString = /\.(mp3|mp4)$/i.test(queryData);
-			console.log(checkString, "data loaded");
+
 			if (checkString) {
 				setState({ videoType: "mp4", videourl: queryString.get("v") });
 			} else {
