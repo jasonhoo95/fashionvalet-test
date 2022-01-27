@@ -32,6 +32,11 @@ a {
 .card-container {
 	box-shadow: 0 0 22px rgb(0 0 0 / 7%);
 	margin: 20px;
+	background-color: #ffc132;
+}
+
+.videoContainer {
+	box-shadow: 0 0 22px rgb(0 0 0 / 7%);
 }
 
 .desc-txt {
@@ -45,13 +50,14 @@ a {
 	margin-top: 0.25rem;
 	cursor: pointer;
 	font-size: 0.8rem;
+	font-weight: bold;
 }
 .size-label:active {
 	border: 1px solid black;
 }
 .discount-txt {
 	text-decoration: line-through;
-	color: #aeb1bd !important;
+	color: red !important;
 }
 
 * {

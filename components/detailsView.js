@@ -40,11 +40,11 @@ export default function DetailsView({ data }) {
 						{data.special_price}
 					</span>
 				</div>
-				<h2 style={{ color: "#212529" }} className="text-md">
+				<h2 style={{ color: "red" }} className="text-md">
 					{data.extra_info_title}
 				</h2>
 				{state.videoType && state.videoType == "mp4" ? (
-					<video style={{ width: "100%", height: "300px" }} controls>
+					<video className="videoContainer" style={{ width: "100%", height: "300px" }} controls>
 						<source src={state.videourl} type="video/mp4" />
 					</video>
 				) : (

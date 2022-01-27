@@ -19,7 +19,9 @@ export default function CardView({ data, type }) {
 				<div style={{ padding: "10px" }}>
 					<div className="desc-txt font-bold">{data.name}</div>
 					<div className="desc-txt">{data.price}</div>
-					<div className="desc-txt discount-txt">{data.special_price}</div>
+					<div style={{ color: "red" }} className="desc-txt discount-txt">
+						{data.special_price}
+					</div>
 					{data.is_in_stock ? <div className="desc-txt">In Stock</div> : <div className="desc-txt">Not In Stock</div>}
 				</div>
 			</a>
