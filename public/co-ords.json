@@ -1,0 +1,2497 @@
+{
+    "status": true,
+    "message": "OK",
+    "meta": {
+      "total": 7,
+      "per_page": 96,
+      "current_page": 1,
+      "last_page": 1,
+      "category_id": 5400,
+      "category_name": "Co-Ords",
+      "category_tree": [
+        {
+          "id": 4479,
+          "parent_id": 2,
+          "level": 2,
+          "name": "LILIT."
+        },
+        {
+          "id": 4626,
+          "parent_id": 4479,
+          "level": 3,
+          "name": "Basics"
+        },
+        {
+          "id": 5400,
+          "parent_id": 4626,
+          "level": 4,
+          "name": "Co-Ords"
+        }
+      ],
+      "sort_field": "new_arrivals",
+      "sort": [
+        {
+          "id": "new_arrivals",
+          "value": "New Arrival"
+        },
+        {
+          "id": "name_asc",
+          "value": "Name (A to Z)"
+        },
+        {
+          "id": "name_desc",
+          "value": "Name (Z to A)"
+        },
+        {
+          "id": "price_asc",
+          "value": "Price (Low to High)"
+        },
+        {
+          "id": "price_desc",
+          "value": "Price (High to Low)"
+        }
+      ],
+      "filters": {
+        "color": [
+          {
+            "id": 56,
+            "value": "Black"
+          },
+          {
+            "id": 61,
+            "value": "Brown"
+          },
+          {
+            "id": 51,
+            "value": "Green"
+          },
+          {
+            "id": 64,
+            "value": "Pink"
+          }
+        ],
+        "brand": [
+          {
+            "id": 2665,
+            "value": "LILIT."
+          }
+        ],
+        "category": [
+          {
+            "id": 5401,
+            "value": "Loungewear Set"
+          },
+          {
+            "id": 5402,
+            "value": "Pyjamas Set"
+          }
+        ],
+        "price": {
+          "currency": "MYR",
+          "min_price": 0,
+          "max_price": 189
+        },
+        "size": [
+          {
+            "id": 623,
+            "value": "UK 10"
+          },
+          {
+            "id": 624,
+            "value": "UK 12"
+          },
+          {
+            "id": 625,
+            "value": "UK 14"
+          },
+          {
+            "id": 626,
+            "value": "UK 16"
+          },
+          {
+            "id": 627,
+            "value": "UK 18"
+          },
+          {
+            "id": 628,
+            "value": "UK 20"
+          },
+          {
+            "id": 629,
+            "value": "UK 22"
+          },
+          {
+            "id": 15,
+            "value": "UK 4"
+          },
+          {
+            "id": 14,
+            "value": "UK 6"
+          },
+          {
+            "id": 17,
+            "value": "UK 8"
+          }
+        ],
+        "shoe_size": [],
+        "customization": [
+          {
+            "id": 2855,
+            "value": "Embroidery"
+          },
+          {
+            "id": 2856,
+            "value": "Engraving"
+          },
+          {
+            "id": 2862,
+            "value": "Hot-Stamping"
+          }
+        ],
+        "with_reviews": [
+          {
+            "id": false,
+            "value": "Product without reviews"
+          },
+          {
+            "id": true,
+            "value": "Product with reviews"
+          }
+        ]
+      }
+    },
+    "data": [
+      {
+        "id": 328561,
+        "sku": "77217082104",
+        "url_key": "https://www.lilitstore.com/3-in-1-loungewear-set-in-nude",
+        "name": "3-in-1 Loungewear Set in Nude",
+        "is_tnbl_applicable": false,
+        "is_on_sale": false,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": null,
+        "color": "Brown",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR149.00",
+        "price": "MYR149.00",
+        "related_product_label": "More colours for 3-in-1 Loungewear Set",
+        "base_special_price": null,
+        "special_price": null,
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082104_1_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082104_7_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082104_2_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082104_3_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082104_4_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082104_5_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082104_6_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082104_8_.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082104_1_.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082104_1_.jpg",
+        "video": "https://www.youtube.com/watch?v=https://images.lilitstore.com/media/lilit/videos/77217082104.mp4",
+        "video_id": "https://images.lilitstore.com/media/lilit/videos/77217082104.mp4",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082104_1_.jpg",
+        "options": [
+          {
+            "id": 328551,
+            "sku": "77217082104-UK4",
+            "name": "3-in-1 Loungewear Set in Nude-UK4",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 15,
+            "label": "UK 4",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 4
+          },
+          {
+            "id": 328552,
+            "sku": "77217082104-UK6",
+            "name": "3-in-1 Loungewear Set in Nude-UK6",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 14,
+            "label": "UK 6",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328553,
+            "sku": "77217082104-UK8",
+            "name": "3-in-1 Loungewear Set in Nude-UK8",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 17,
+            "label": "UK 8",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": -2
+          },
+          {
+            "id": 328554,
+            "sku": "77217082104-UK10",
+            "name": "3-in-1 Loungewear Set in Nude-UK10",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 623,
+            "label": "UK 10",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328555,
+            "sku": "77217082104-UK12",
+            "name": "3-in-1 Loungewear Set in Nude-UK12",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 624,
+            "label": "UK 12",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 0
+          },
+          {
+            "id": 328556,
+            "sku": "77217082104-UK14",
+            "name": "3-in-1 Loungewear Set in Nude-UK14",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 625,
+            "label": "UK 14",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328557,
+            "sku": "77217082104-UK16",
+            "name": "3-in-1 Loungewear Set in Nude-UK16",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 626,
+            "label": "UK 16",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 1
+          },
+          {
+            "id": 328558,
+            "sku": "77217082104-UK18",
+            "name": "3-in-1 Loungewear Set in Nude-UK18",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 627,
+            "label": "UK 18",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 7
+          },
+          {
+            "id": 328559,
+            "sku": "77217082104-UK20",
+            "name": "3-in-1 Loungewear Set in Nude-UK20",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 628,
+            "label": "UK 20",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 6
+          },
+          {
+            "id": 328560,
+            "sku": "77217082104-UK22",
+            "name": "3-in-1 Loungewear Set in Nude-UK22",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 629,
+            "label": "UK 22",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 10
+          }
+        ],
+        "categories": [
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 4789,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "New In"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 5516,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Plus Size"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 2918,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "What's New"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 4170,
+            "parent_id": 3,
+            "level": 4,
+            "name": "Sets & Co-Ords"
+          },
+          {
+            "id": 5347,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "The Sleep Edit"
+          },
+          {
+            "id": 5400,
+            "parent_id": 4626,
+            "level": 4,
+            "name": "Co-Ords"
+          },
+          {
+            "id": 4791,
+            "parent_id": 4789,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 5401,
+            "parent_id": 5400,
+            "level": 5,
+            "name": "Loungewear Set"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": null,
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR24.83/month",
+        "extra_info": [
+          "<b>MYR49.67</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR24.83</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR37.25</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 328572,
+        "sku": "77217082105",
+        "url_key": "https://www.lilitstore.com/3-in-1-loungewear-set-in-pink",
+        "name": "3-in-1 Loungewear Set in Pink",
+        "is_tnbl_applicable": false,
+        "is_on_sale": false,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": null,
+        "color": "Pink",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR149.00",
+        "price": "MYR149.00",
+        "related_product_label": "More colours for 3-in-1 Loungewear Set",
+        "base_special_price": null,
+        "special_price": null,
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082105_1_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082105_8_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082105_2_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082105_3_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082105_4_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082105_5_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082105_6_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082105_7_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082105_9_.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082105_1_.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082105_1_.jpg",
+        "video": "https://www.youtube.com/watch?v=https://images.lilitstore.com/media/lilit/videos/77217082105.mp4",
+        "video_id": "https://images.lilitstore.com/media/lilit/videos/77217082105.mp4",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082105_1_.jpg",
+        "options": [
+          {
+            "id": 328562,
+            "sku": "77217082105-UK4",
+            "name": "3-in-1 Loungewear Set in Pink-UK4",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 15,
+            "label": "UK 4",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 6
+          },
+          {
+            "id": 328563,
+            "sku": "77217082105-UK6",
+            "name": "3-in-1 Loungewear Set in Pink-UK6",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 14,
+            "label": "UK 6",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328564,
+            "sku": "77217082105-UK8",
+            "name": "3-in-1 Loungewear Set in Pink-UK8",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 17,
+            "label": "UK 8",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": -1
+          },
+          {
+            "id": 328565,
+            "sku": "77217082105-UK10",
+            "name": "3-in-1 Loungewear Set in Pink-UK10",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 623,
+            "label": "UK 10",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328566,
+            "sku": "77217082105-UK12",
+            "name": "3-in-1 Loungewear Set in Pink-UK12",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 624,
+            "label": "UK 12",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328567,
+            "sku": "77217082105-UK14",
+            "name": "3-in-1 Loungewear Set in Pink-UK14",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 625,
+            "label": "UK 14",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 2
+          },
+          {
+            "id": 328568,
+            "sku": "77217082105-UK16",
+            "name": "3-in-1 Loungewear Set in Pink-UK16",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 626,
+            "label": "UK 16",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 2
+          },
+          {
+            "id": 328569,
+            "sku": "77217082105-UK18",
+            "name": "3-in-1 Loungewear Set in Pink-UK18",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 627,
+            "label": "UK 18",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 5
+          },
+          {
+            "id": 328570,
+            "sku": "77217082105-UK20",
+            "name": "3-in-1 Loungewear Set in Pink-UK20",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 628,
+            "label": "UK 20",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 7
+          },
+          {
+            "id": 328571,
+            "sku": "77217082105-UK22",
+            "name": "3-in-1 Loungewear Set in Pink-UK22",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 629,
+            "label": "UK 22",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 7
+          }
+        ],
+        "categories": [
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 4789,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "New In"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 5516,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Plus Size"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 4984,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. KL East"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 2918,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "What's New"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 4170,
+            "parent_id": 3,
+            "level": 4,
+            "name": "Sets & Co-Ords"
+          },
+          {
+            "id": 5347,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "The Sleep Edit"
+          },
+          {
+            "id": 5400,
+            "parent_id": 4626,
+            "level": 4,
+            "name": "Co-Ords"
+          },
+          {
+            "id": 4791,
+            "parent_id": 4789,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 5401,
+            "parent_id": 5400,
+            "level": 5,
+            "name": "Loungewear Set"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": null,
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR24.83/month",
+        "extra_info": [
+          "<b>MYR49.67</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR24.83</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR37.25</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 328583,
+        "sku": "77217082106",
+        "url_key": "https://www.lilitstore.com/3-in-1-loungewear-set-in-dusty-green",
+        "name": "3-in-1 Loungewear Set in Dusty Green",
+        "is_tnbl_applicable": false,
+        "is_on_sale": false,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": null,
+        "color": "Green",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR149.00",
+        "price": "MYR149.00",
+        "related_product_label": "More colours for 3-in-1 Loungewear Set",
+        "base_special_price": null,
+        "special_price": null,
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082106_1_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082106_7_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082106_2_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082106_3_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082106_4_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082106_5_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082106_6_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082106_8_.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082106_1_.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082106_1_.jpg",
+        "video": "https://www.youtube.com/watch?v=https://images.lilitstore.com/media/lilit/videos/77217082106.mp4",
+        "video_id": "https://images.lilitstore.com/media/lilit/videos/77217082106.mp4",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082106_1_.jpg",
+        "options": [
+          {
+            "id": 328573,
+            "sku": "77217082106-UK4",
+            "name": "3-in-1 Loungewear Set in Dusty Green-UK4",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 15,
+            "label": "UK 4",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 5
+          },
+          {
+            "id": 328574,
+            "sku": "77217082106-UK6",
+            "name": "3-in-1 Loungewear Set in Dusty Green-UK6",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 14,
+            "label": "UK 6",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328575,
+            "sku": "77217082106-UK8",
+            "name": "3-in-1 Loungewear Set in Dusty Green-UK8",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 17,
+            "label": "UK 8",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": -1
+          },
+          {
+            "id": 328576,
+            "sku": "77217082106-UK10",
+            "name": "3-in-1 Loungewear Set in Dusty Green-UK10",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 623,
+            "label": "UK 10",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328577,
+            "sku": "77217082106-UK12",
+            "name": "3-in-1 Loungewear Set in Dusty Green-UK12",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 624,
+            "label": "UK 12",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 0
+          },
+          {
+            "id": 328578,
+            "sku": "77217082106-UK14",
+            "name": "3-in-1 Loungewear Set in Dusty Green-UK14",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 625,
+            "label": "UK 14",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 3
+          },
+          {
+            "id": 328579,
+            "sku": "77217082106-UK16",
+            "name": "3-in-1 Loungewear Set in Dusty Green-UK16",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 626,
+            "label": "UK 16",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 0
+          },
+          {
+            "id": 328580,
+            "sku": "77217082106-UK18",
+            "name": "3-in-1 Loungewear Set in Dusty Green-UK18",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 627,
+            "label": "UK 18",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328581,
+            "sku": "77217082106-UK20",
+            "name": "3-in-1 Loungewear Set in Dusty Green-UK20",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 628,
+            "label": "UK 20",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 4
+          },
+          {
+            "id": 328582,
+            "sku": "77217082106-UK22",
+            "name": "3-in-1 Loungewear Set in Dusty Green-UK22",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 629,
+            "label": "UK 22",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 2
+          }
+        ],
+        "categories": [
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 4789,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "New In"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 5516,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Plus Size"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 2918,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "What's New"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 4170,
+            "parent_id": 3,
+            "level": 4,
+            "name": "Sets & Co-Ords"
+          },
+          {
+            "id": 5347,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "The Sleep Edit"
+          },
+          {
+            "id": 5400,
+            "parent_id": 4626,
+            "level": 4,
+            "name": "Co-Ords"
+          },
+          {
+            "id": 4791,
+            "parent_id": 4789,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 5401,
+            "parent_id": 5400,
+            "level": 5,
+            "name": "Loungewear Set"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": null,
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR24.83/month",
+        "extra_info": [
+          "<b>MYR49.67</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR24.83</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR37.25</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 328596,
+        "sku": "77217082107",
+        "url_key": "https://www.lilitstore.com/3-in-1-loungewear-set-in-brown",
+        "name": "3-in-1 Loungewear Set in Brown",
+        "is_tnbl_applicable": false,
+        "is_on_sale": false,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": null,
+        "color": "Brown",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR149.00",
+        "price": "MYR149.00",
+        "related_product_label": "More colours for 3-in-1 Loungewear Set",
+        "base_special_price": null,
+        "special_price": null,
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082107_1_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082107_9_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082107_2_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082107_3_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082107_4_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082107_5_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082107_6_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082107_7_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082107_8_.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082107_1_.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082107_1_.jpg",
+        "video": "https://www.youtube.com/watch?v=https://images.lilitstore.com/media/lilit/videos/77217082107.mp4",
+        "video_id": "https://images.lilitstore.com/media/lilit/videos/77217082107.mp4",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082107_1_.jpg",
+        "options": [
+          {
+            "id": 328586,
+            "sku": "77217082107-UK4",
+            "name": "3-in-1 Loungewear Set in Brown-UK4",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 15,
+            "label": "UK 4",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 7
+          },
+          {
+            "id": 328587,
+            "sku": "77217082107-UK6",
+            "name": "3-in-1 Loungewear Set in Brown-UK6",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 14,
+            "label": "UK 6",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328588,
+            "sku": "77217082107-UK8",
+            "name": "3-in-1 Loungewear Set in Brown-UK8",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 17,
+            "label": "UK 8",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": -1
+          },
+          {
+            "id": 328589,
+            "sku": "77217082107-UK10",
+            "name": "3-in-1 Loungewear Set in Brown-UK10",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 623,
+            "label": "UK 10",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328590,
+            "sku": "77217082107-UK12",
+            "name": "3-in-1 Loungewear Set in Brown-UK12",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 624,
+            "label": "UK 12",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328591,
+            "sku": "77217082107-UK14",
+            "name": "3-in-1 Loungewear Set in Brown-UK14",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 625,
+            "label": "UK 14",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328592,
+            "sku": "77217082107-UK16",
+            "name": "3-in-1 Loungewear Set in Brown-UK16",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 626,
+            "label": "UK 16",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 0
+          },
+          {
+            "id": 328593,
+            "sku": "77217082107-UK18",
+            "name": "3-in-1 Loungewear Set in Brown-UK18",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 627,
+            "label": "UK 18",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 1
+          },
+          {
+            "id": 328594,
+            "sku": "77217082107-UK20",
+            "name": "3-in-1 Loungewear Set in Brown-UK20",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 628,
+            "label": "UK 20",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 5
+          },
+          {
+            "id": 328595,
+            "sku": "77217082107-UK22",
+            "name": "3-in-1 Loungewear Set in Brown-UK22",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 629,
+            "label": "UK 22",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 3
+          }
+        ],
+        "categories": [
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 4789,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "New In"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 5516,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Plus Size"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 2918,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "What's New"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 4170,
+            "parent_id": 3,
+            "level": 4,
+            "name": "Sets & Co-Ords"
+          },
+          {
+            "id": 5347,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "The Sleep Edit"
+          },
+          {
+            "id": 5400,
+            "parent_id": 4626,
+            "level": 4,
+            "name": "Co-Ords"
+          },
+          {
+            "id": 4791,
+            "parent_id": 4789,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 5401,
+            "parent_id": 5400,
+            "level": 5,
+            "name": "Loungewear Set"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": null,
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR24.83/month",
+        "extra_info": [
+          "<b>MYR49.67</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR24.83</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR37.25</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 328607,
+        "sku": "77217082108",
+        "url_key": "https://www.lilitstore.com/3-in-1-loungewear-set-in-black",
+        "name": "3-in-1 Loungewear Set in Black",
+        "is_tnbl_applicable": false,
+        "is_on_sale": false,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": null,
+        "color": "Black",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR149.00",
+        "price": "MYR149.00",
+        "related_product_label": "More colours for 3-in-1 Loungewear Set",
+        "base_special_price": null,
+        "special_price": null,
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082108_1_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082108_8_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082108_2_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082108_3_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082108_4_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082108_5_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082108_6_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082108_7_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082108_9_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082108_10_.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082108_1_.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082108_1_.jpg",
+        "video": "https://www.youtube.com/watch?v=https://images.lilitstore.com/media/lilit/videos/77217082108.mp4",
+        "video_id": "https://images.lilitstore.com/media/lilit/videos/77217082108.mp4",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77217082108_1_.jpg",
+        "options": [
+          {
+            "id": 328597,
+            "sku": "77217082108-UK4",
+            "name": "3-in-1 Loungewear Set in Black-UK4",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 15,
+            "label": "UK 4",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 7
+          },
+          {
+            "id": 328598,
+            "sku": "77217082108-UK6",
+            "name": "3-in-1 Loungewear Set in Black-UK6",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 14,
+            "label": "UK 6",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328599,
+            "sku": "77217082108-UK8",
+            "name": "3-in-1 Loungewear Set in Black-UK8",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 17,
+            "label": "UK 8",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328600,
+            "sku": "77217082108-UK10",
+            "name": "3-in-1 Loungewear Set in Black-UK10",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 623,
+            "label": "UK 10",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328601,
+            "sku": "77217082108-UK12",
+            "name": "3-in-1 Loungewear Set in Black-UK12",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 624,
+            "label": "UK 12",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 7
+          },
+          {
+            "id": 328602,
+            "sku": "77217082108-UK14",
+            "name": "3-in-1 Loungewear Set in Black-UK14",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 625,
+            "label": "UK 14",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": false,
+            "qty": 0
+          },
+          {
+            "id": 328603,
+            "sku": "77217082108-UK16",
+            "name": "3-in-1 Loungewear Set in Black-UK16",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 626,
+            "label": "UK 16",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 3
+          },
+          {
+            "id": 328604,
+            "sku": "77217082108-UK18",
+            "name": "3-in-1 Loungewear Set in Black-UK18",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 627,
+            "label": "UK 18",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 2
+          },
+          {
+            "id": 328605,
+            "sku": "77217082108-UK20",
+            "name": "3-in-1 Loungewear Set in Black-UK20",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 628,
+            "label": "UK 20",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 7
+          },
+          {
+            "id": 328606,
+            "sku": "77217082108-UK22",
+            "name": "3-in-1 Loungewear Set in Black-UK22",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 629,
+            "label": "UK 22",
+            "base_price": "MYR149.00",
+            "price": "MYR149.00",
+            "base_special_price": null,
+            "special_price": null,
+            "is_in_stock": true,
+            "qty": 8
+          }
+        ],
+        "categories": [
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 4789,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "New In"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 5516,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Plus Size"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 2918,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "What's New"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 4170,
+            "parent_id": 3,
+            "level": 4,
+            "name": "Sets & Co-Ords"
+          },
+          {
+            "id": 5347,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "The Sleep Edit"
+          },
+          {
+            "id": 5400,
+            "parent_id": 4626,
+            "level": 4,
+            "name": "Co-Ords"
+          },
+          {
+            "id": 4791,
+            "parent_id": 4789,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 5401,
+            "parent_id": 5400,
+            "level": 5,
+            "name": "Loungewear Set"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": null,
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR24.83/month",
+        "extra_info": [
+          "<b>MYR49.67</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR24.83</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR37.25</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 324898,
+        "sku": "77229072109",
+        "url_key": "https://www.lilitstore.com/product/77229072109",
+        "name": "Pajamas Set In Black",
+        "is_tnbl_applicable": false,
+        "is_on_sale": true,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": "SPEND RM250, GET 15% OFF",
+        "color": "Black",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR189.00",
+        "price": "MYR189.00",
+        "related_product_label": "More in the D U A Collection",
+        "base_special_price": "MYR151.20",
+        "special_price": "MYR151.20",
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072109_1_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072109_10_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072109_2_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072109_3_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072109_4_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072109_5_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072109_6_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072109_7_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072109_8_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072109_9_.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072109_1_.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072109_1_.jpg",
+        "video": "https://www.youtube.com/watch?v=https://images.lilitstore.com/media/lilit/videos/77229072109.mp4",
+        "video_id": "https://images.lilitstore.com/media/lilit/videos/77229072109.mp4",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072109_1_.jpg",
+        "options": [
+          {
+            "id": 324892,
+            "sku": "77229072109-UK6",
+            "name": "Pajamas Set In Black-UK6",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 14,
+            "label": "UK 6",
+            "base_price": "MYR189.00",
+            "price": "MYR189.00",
+            "base_special_price": "MYR151.20",
+            "special_price": "MYR151.20",
+            "is_in_stock": true,
+            "qty": 6
+          },
+          {
+            "id": 324893,
+            "sku": "77229072109-UK8",
+            "name": "Pajamas Set In Black-UK8",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 17,
+            "label": "UK 8",
+            "base_price": "MYR189.00",
+            "price": "MYR189.00",
+            "base_special_price": "MYR151.20",
+            "special_price": "MYR151.20",
+            "is_in_stock": true,
+            "qty": 3
+          },
+          {
+            "id": 324894,
+            "sku": "77229072109-UK10",
+            "name": "Pajamas Set In Black-UK10",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 623,
+            "label": "UK 10",
+            "base_price": "MYR189.00",
+            "price": "MYR189.00",
+            "base_special_price": "MYR151.20",
+            "special_price": "MYR151.20",
+            "is_in_stock": true,
+            "qty": 5
+          },
+          {
+            "id": 324895,
+            "sku": "77229072109-UK12",
+            "name": "Pajamas Set In Black-UK12",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 624,
+            "label": "UK 12",
+            "base_price": "MYR189.00",
+            "price": "MYR189.00",
+            "base_special_price": "MYR151.20",
+            "special_price": "MYR151.20",
+            "is_in_stock": true,
+            "qty": 6
+          },
+          {
+            "id": 324896,
+            "sku": "77229072109-UK14",
+            "name": "Pajamas Set In Black-UK14",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 625,
+            "label": "UK 14",
+            "base_price": "MYR189.00",
+            "price": "MYR189.00",
+            "base_special_price": "MYR151.20",
+            "special_price": "MYR151.20",
+            "is_in_stock": true,
+            "qty": 6
+          },
+          {
+            "id": 324897,
+            "sku": "77229072109-UK16",
+            "name": "Pajamas Set In Black-UK16",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 626,
+            "label": "UK 16",
+            "base_price": "MYR189.00",
+            "price": "MYR189.00",
+            "base_special_price": "MYR151.20",
+            "special_price": "MYR151.20",
+            "is_in_stock": true,
+            "qty": 1
+          }
+        ],
+        "categories": [
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 4789,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "New In"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 2918,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "What's New"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 4947,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Campaign"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 5506,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "FLASH SALE! 7.11 | Spend RM400, Get RM100 OFF!"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 5510,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "FLASH SALE! 8.11 | VALUE BUY"
+          },
+          {
+            "id": 5513,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "FLASH SALE! 11.11| BUY 3 ITEMS, 25% OFF, BUY 5 ITEMS & ABOVE 40% OFF"
+          },
+          {
+            "id": 5514,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "FLASH SALE! 12.11 | BUY 2 ITEMS, 15% OFF, BUY 3 ITEMS, 25% OFF, BUY 5 ITEMS AND ABOVE 40% OFF"
+          },
+          {
+            "id": 5500,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "FLASH SALE! 1.11 | Spend RM250, Get 15% OFF! Spend RM350, Get 25% OFF!"
+          },
+          {
+            "id": 5748,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "New Year Sale 2022 | Spend RM250, Get 15% OFF"
+          },
+          {
+            "id": 4184,
+            "parent_id": 3,
+            "level": 4,
+            "name": "Lingerie & Swim Wear"
+          },
+          {
+            "id": 5499,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "LILIT. 11.11 SALE"
+          },
+          {
+            "id": 5437,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "Malaysia Day Weekend Special | FLASH SALE"
+          },
+          {
+            "id": 5358,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "Dress Like A Star"
+          },
+          {
+            "id": 5009,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "D U A Collection"
+          },
+          {
+            "id": 3613,
+            "parent_id": 2918,
+            "level": 4,
+            "name": "Tops"
+          },
+          {
+            "id": 5400,
+            "parent_id": 4626,
+            "level": 4,
+            "name": "Co-Ords"
+          },
+          {
+            "id": 3612,
+            "parent_id": 2918,
+            "level": 4,
+            "name": "Bottoms"
+          },
+          {
+            "id": 4791,
+            "parent_id": 4789,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 5440,
+            "parent_id": 5358,
+            "level": 5,
+            "name": "The Casual Babe"
+          },
+          {
+            "id": 5402,
+            "parent_id": 5400,
+            "level": 5,
+            "name": "Pyjamas Set"
+          },
+          {
+            "id": 5752,
+            "parent_id": 5748,
+            "level": 5,
+            "name": "Apparel"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": null,
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR25.2/month",
+        "extra_info": [
+          "<b>MYR50.40</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR25.20</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR37.80</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 1,
+          "star": 5
+        }
+      },
+      {
+        "id": 324905,
+        "sku": "77229072110",
+        "url_key": "https://www.lilitstore.com/product/77229072110",
+        "name": "Pajamas Set In Dusty Pink",
+        "is_tnbl_applicable": false,
+        "is_on_sale": true,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": "SPEND RM250, GET 15% OFF",
+        "color": "Pink",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR189.00",
+        "price": "MYR189.00",
+        "related_product_label": "More in the D U A Collection",
+        "base_special_price": "MYR151.20",
+        "special_price": "MYR151.20",
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072110_1_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072110_9_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072110_2_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072110_3_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072110_4_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072110_5_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072110_6_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072110_7_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072110_8_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072110_10_.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072110_1_.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072110_1_.jpg",
+        "video": "https://www.youtube.com/watch?v=https://images.lilitstore.com/media/lilit/videos/77229072110.mp4",
+        "video_id": "https://images.lilitstore.com/media/lilit/videos/77229072110.mp4",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77229072110_1_.jpg",
+        "options": [
+          {
+            "id": 324899,
+            "sku": "77229072110-UK6",
+            "name": "Pajamas Set In Dusty Pink-UK6",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 14,
+            "label": "UK 6",
+            "base_price": "MYR189.00",
+            "price": "MYR189.00",
+            "base_special_price": "MYR151.20",
+            "special_price": "MYR151.20",
+            "is_in_stock": true,
+            "qty": 5
+          },
+          {
+            "id": 324900,
+            "sku": "77229072110-UK8",
+            "name": "Pajamas Set In Dusty Pink-UK8",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 17,
+            "label": "UK 8",
+            "base_price": "MYR189.00",
+            "price": "MYR189.00",
+            "base_special_price": "MYR151.20",
+            "special_price": "MYR151.20",
+            "is_in_stock": true,
+            "qty": 3
+          },
+          {
+            "id": 324901,
+            "sku": "77229072110-UK10",
+            "name": "Pajamas Set In Dusty Pink-UK10",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 623,
+            "label": "UK 10",
+            "base_price": "MYR189.00",
+            "price": "MYR189.00",
+            "base_special_price": "MYR151.20",
+            "special_price": "MYR151.20",
+            "is_in_stock": true,
+            "qty": 11
+          },
+          {
+            "id": 324902,
+            "sku": "77229072110-UK12",
+            "name": "Pajamas Set In Dusty Pink-UK12",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 624,
+            "label": "UK 12",
+            "base_price": "MYR189.00",
+            "price": "MYR189.00",
+            "base_special_price": "MYR151.20",
+            "special_price": "MYR151.20",
+            "is_in_stock": true,
+            "qty": 8
+          },
+          {
+            "id": 324903,
+            "sku": "77229072110-UK14",
+            "name": "Pajamas Set In Dusty Pink-UK14",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 625,
+            "label": "UK 14",
+            "base_price": "MYR189.00",
+            "price": "MYR189.00",
+            "base_special_price": "MYR151.20",
+            "special_price": "MYR151.20",
+            "is_in_stock": true,
+            "qty": 5
+          },
+          {
+            "id": 324904,
+            "sku": "77229072110-UK16",
+            "name": "Pajamas Set In Dusty Pink-UK16",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 626,
+            "label": "UK 16",
+            "base_price": "MYR189.00",
+            "price": "MYR189.00",
+            "base_special_price": "MYR151.20",
+            "special_price": "MYR151.20",
+            "is_in_stock": true,
+            "qty": 2
+          }
+        ],
+        "categories": [
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 4789,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "New In"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 2918,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "What's New"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 4947,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Campaign"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 5506,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "FLASH SALE! 7.11 | Spend RM400, Get RM100 OFF!"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 5510,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "FLASH SALE! 8.11 | VALUE BUY"
+          },
+          {
+            "id": 5513,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "FLASH SALE! 11.11| BUY 3 ITEMS, 25% OFF, BUY 5 ITEMS & ABOVE 40% OFF"
+          },
+          {
+            "id": 5514,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "FLASH SALE! 12.11 | BUY 2 ITEMS, 15% OFF, BUY 3 ITEMS, 25% OFF, BUY 5 ITEMS AND ABOVE 40% OFF"
+          },
+          {
+            "id": 5500,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "FLASH SALE! 1.11 | Spend RM250, Get 15% OFF! Spend RM350, Get 25% OFF!"
+          },
+          {
+            "id": 5748,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "New Year Sale 2022 | Spend RM250, Get 15% OFF"
+          },
+          {
+            "id": 4184,
+            "parent_id": 3,
+            "level": 4,
+            "name": "Lingerie & Swim Wear"
+          },
+          {
+            "id": 5499,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "LILIT. 11.11 SALE"
+          },
+          {
+            "id": 5437,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "Malaysia Day Weekend Special | FLASH SALE"
+          },
+          {
+            "id": 5358,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "Dress Like A Star"
+          },
+          {
+            "id": 5009,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "D U A Collection"
+          },
+          {
+            "id": 3613,
+            "parent_id": 2918,
+            "level": 4,
+            "name": "Tops"
+          },
+          {
+            "id": 5400,
+            "parent_id": 4626,
+            "level": 4,
+            "name": "Co-Ords"
+          },
+          {
+            "id": 3612,
+            "parent_id": 2918,
+            "level": 4,
+            "name": "Bottoms"
+          },
+          {
+            "id": 4791,
+            "parent_id": 4789,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 5440,
+            "parent_id": 5358,
+            "level": 5,
+            "name": "The Casual Babe"
+          },
+          {
+            "id": 5402,
+            "parent_id": 5400,
+            "level": 5,
+            "name": "Pyjamas Set"
+          },
+          {
+            "id": 5752,
+            "parent_id": 5748,
+            "level": 5,
+            "name": "Apparel"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": null,
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR25.2/month",
+        "extra_info": [
+          "<b>MYR50.40</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR25.20</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR37.80</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      }
+    ]
+  }

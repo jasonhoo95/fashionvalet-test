@@ -1,0 +1,3074 @@
+{
+    "status": true,
+    "message": "OK",
+    "meta": {
+      "total": 11,
+      "per_page": 96,
+      "current_page": 1,
+      "last_page": 1,
+      "category_id": 5573,
+      "category_name": "Dickies",
+      "category_tree": [
+        {
+          "id": 4479,
+          "parent_id": 2,
+          "level": 2,
+          "name": "LILIT."
+        },
+        {
+          "id": 4629,
+          "parent_id": 4479,
+          "level": 3,
+          "name": "Accessories"
+        },
+        {
+          "id": 5573,
+          "parent_id": 4629,
+          "level": 4,
+          "name": "Dickies"
+        }
+      ],
+      "sort_field": "new_arrivals",
+      "sort": [
+        {
+          "id": "new_arrivals",
+          "value": "New Arrival"
+        },
+        {
+          "id": "name_asc",
+          "value": "Name (A to Z)"
+        },
+        {
+          "id": "name_desc",
+          "value": "Name (Z to A)"
+        },
+        {
+          "id": "price_asc",
+          "value": "Price (Low to High)"
+        },
+        {
+          "id": "price_desc",
+          "value": "Price (High to Low)"
+        }
+      ],
+      "filters": {
+        "color": [
+          {
+            "id": 56,
+            "value": "Black"
+          },
+          {
+            "id": 61,
+            "value": "Brown"
+          },
+          {
+            "id": 58,
+            "value": "Cream"
+          },
+          {
+            "id": 64,
+            "value": "Pink"
+          },
+          {
+            "id": 47,
+            "value": "White"
+          }
+        ],
+        "brand": [
+          {
+            "id": 2665,
+            "value": "LILIT."
+          }
+        ],
+        "category": [
+          {
+            "id": 5693,
+            "value": "Lace Dickie"
+          },
+          {
+            "id": 5694,
+            "value": "Ribbed Dickie"
+          },
+          {
+            "id": 5695,
+            "value": "Shirt Dickie"
+          }
+        ],
+        "price": {
+          "currency": "MYR",
+          "min_price": 35.1,
+          "max_price": 59
+        },
+        "size": [
+          {
+            "id": 630,
+            "value": "Free Size"
+          },
+          {
+            "id": 1414,
+            "value": "One Size"
+          }
+        ],
+        "shoe_size": [],
+        "customization": [
+          {
+            "id": 2855,
+            "value": "Embroidery"
+          },
+          {
+            "id": 2856,
+            "value": "Engraving"
+          },
+          {
+            "id": 2862,
+            "value": "Hot-Stamping"
+          }
+        ],
+        "with_reviews": [
+          {
+            "id": false,
+            "value": "Product without reviews"
+          },
+          {
+            "id": true,
+            "value": "Product with reviews"
+          }
+        ]
+      }
+    },
+    "data": [
+      {
+        "id": 326647,
+        "sku": "77213092103",
+        "url_key": "https://www.lilitstore.com/lace-shirt-dickie-in-off-white",
+        "name": "Lace Shirt Dickie in Off White",
+        "is_tnbl_applicable": false,
+        "is_on_sale": true,
+        "is_new_product": true,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": "SPEND RM250, GET 15% OFF",
+        "color": "White",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR39.00",
+        "price": "MYR39.00",
+        "related_product_label": "More colours for Lace Shirt Dickie",
+        "base_special_price": "MYR35.10",
+        "special_price": "MYR35.10",
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092103_6_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092103_5_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092103_7_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092103_1_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092103_2_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092103_3_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092103_4_.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092103_6_.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092103_6_.jpg",
+        "video": "https://www.youtube.com/watch?v=-9khz6Qr2t8",
+        "video_id": "-9khz6Qr2t8",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092103_6_.jpg",
+        "options": [
+          {
+            "id": 326646,
+            "sku": "77213092103-OS",
+            "name": "Lace Shirt Dickie in Off White-OS",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 1414,
+            "label": "One Size",
+            "base_price": "MYR39.00",
+            "price": "MYR39.00",
+            "base_special_price": "MYR35.10",
+            "special_price": "MYR35.10",
+            "is_in_stock": true,
+            "qty": 81
+          }
+        ],
+        "categories": [
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 11,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Brands"
+          },
+          {
+            "id": 4789,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "New In"
+          },
+          {
+            "id": 7,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Accessories"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 5562,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Best Sellers"
+          },
+          {
+            "id": 4947,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Campaign"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 4629,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Accessories"
+          },
+          {
+            "id": 2758,
+            "parent_id": 11,
+            "level": 3,
+            "name": "LILIT."
+          },
+          {
+            "id": 2918,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "What's New"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 5748,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "New Year Sale 2022 | Spend RM250, Get 15% OFF"
+          },
+          {
+            "id": 3614,
+            "parent_id": 2918,
+            "level": 4,
+            "name": "Accessories"
+          },
+          {
+            "id": 5131,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 4799,
+            "parent_id": 4789,
+            "level": 4,
+            "name": "Accessories"
+          },
+          {
+            "id": 13,
+            "parent_id": 3,
+            "level": 4,
+            "name": "Tops"
+          },
+          {
+            "id": 5628,
+            "parent_id": 5562,
+            "level": 4,
+            "name": "Accessories"
+          },
+          {
+            "id": 5269,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "Modest Solution"
+          },
+          {
+            "id": 5573,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Dickies"
+          },
+          {
+            "id": 3613,
+            "parent_id": 2918,
+            "level": 4,
+            "name": "Tops"
+          },
+          {
+            "id": 5755,
+            "parent_id": 5748,
+            "level": 5,
+            "name": "Accessories"
+          },
+          {
+            "id": 3638,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "New Launch"
+          },
+          {
+            "id": 5139,
+            "parent_id": 5131,
+            "level": 5,
+            "name": "Dickie"
+          },
+          {
+            "id": 5142,
+            "parent_id": 5131,
+            "level": 5,
+            "name": "Lace Dickie"
+          },
+          {
+            "id": 5636,
+            "parent_id": 5628,
+            "level": 5,
+            "name": "Dickies"
+          },
+          {
+            "id": 5693,
+            "parent_id": 5573,
+            "level": 5,
+            "name": "Lace Dickie"
+          },
+          {
+            "id": 5655,
+            "parent_id": 5636,
+            "level": 6,
+            "name": "Lace Dickie"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": "ACCESSORIES",
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR5.85/month",
+        "extra_info": [
+          "<b>MYR11.70</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR5.85</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR8.78</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 326649,
+        "sku": "77213092104",
+        "url_key": "https://www.lilitstore.com/lace-shirt-dickie-in-black",
+        "name": "Lace Shirt Dickie in Black",
+        "is_tnbl_applicable": false,
+        "is_on_sale": true,
+        "is_new_product": true,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": "SPEND RM250, GET 15% OFF",
+        "color": "Black",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR39.00",
+        "price": "MYR39.00",
+        "related_product_label": "More colours for Lace Shirt Dickie",
+        "base_special_price": "MYR35.10",
+        "special_price": "MYR35.10",
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092104_6_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092104_4_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092104_7_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092104_1_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092104_2_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092104_3_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092104_5_.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092104_6_.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092104_6_.jpg",
+        "video": "https://www.youtube.com/watch?v=Oc7ziU522_M",
+        "video_id": "Oc7ziU522_M",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77213092104_6_.jpg",
+        "options": [
+          {
+            "id": 326648,
+            "sku": "77213092104-OS",
+            "name": "Lace Shirt Dickie in Black-OS",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 1414,
+            "label": "One Size",
+            "base_price": "MYR39.00",
+            "price": "MYR39.00",
+            "base_special_price": "MYR35.10",
+            "special_price": "MYR35.10",
+            "is_in_stock": true,
+            "qty": 162
+          }
+        ],
+        "categories": [
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 11,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Brands"
+          },
+          {
+            "id": 4789,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "New In"
+          },
+          {
+            "id": 7,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Accessories"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 5562,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Best Sellers"
+          },
+          {
+            "id": 4947,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Campaign"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 4629,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Accessories"
+          },
+          {
+            "id": 2758,
+            "parent_id": 11,
+            "level": 3,
+            "name": "LILIT."
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 2918,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "What's New"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 5748,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "New Year Sale 2022 | Spend RM250, Get 15% OFF"
+          },
+          {
+            "id": 3614,
+            "parent_id": 2918,
+            "level": 4,
+            "name": "Accessories"
+          },
+          {
+            "id": 5131,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 4799,
+            "parent_id": 4789,
+            "level": 4,
+            "name": "Accessories"
+          },
+          {
+            "id": 5628,
+            "parent_id": 5562,
+            "level": 4,
+            "name": "Accessories"
+          },
+          {
+            "id": 13,
+            "parent_id": 3,
+            "level": 4,
+            "name": "Tops"
+          },
+          {
+            "id": 5269,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "Modest Solution"
+          },
+          {
+            "id": 5573,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Dickies"
+          },
+          {
+            "id": 3613,
+            "parent_id": 2918,
+            "level": 4,
+            "name": "Tops"
+          },
+          {
+            "id": 5142,
+            "parent_id": 5131,
+            "level": 5,
+            "name": "Lace Dickie"
+          },
+          {
+            "id": 3638,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "New Launch"
+          },
+          {
+            "id": 5693,
+            "parent_id": 5573,
+            "level": 5,
+            "name": "Lace Dickie"
+          },
+          {
+            "id": 5636,
+            "parent_id": 5628,
+            "level": 5,
+            "name": "Dickies"
+          },
+          {
+            "id": 5755,
+            "parent_id": 5748,
+            "level": 5,
+            "name": "Accessories"
+          },
+          {
+            "id": 5655,
+            "parent_id": 5636,
+            "level": 6,
+            "name": "Lace Dickie"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": "ACCESSORIES",
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR5.85/month",
+        "extra_info": [
+          "<b>MYR11.70</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR5.85</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR8.78</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 323615,
+        "sku": "77204062101",
+        "url_key": "https://www.lilitstore.com/ribbed-bib-in-khaki",
+        "name": "Ribbed Bib in Khaki",
+        "is_tnbl_applicable": false,
+        "is_on_sale": true,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": "SPEND RM250, GET 15% OFF",
+        "color": "Brown",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR59.00",
+        "price": "MYR59.00",
+        "related_product_label": "More colours for Ribbed Bib",
+        "base_special_price": "MYR53.10",
+        "special_price": "MYR53.10",
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062101.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062101_1_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062101_2_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062101_3_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062101_4_.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062101.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062101.jpg",
+        "video": null,
+        "video_id": null,
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062101.jpg",
+        "options": [
+          {
+            "id": 323614,
+            "sku": "77204062101-OS",
+            "name": "Ribbed Bib in Khaki-OS",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 1414,
+            "label": "One Size",
+            "base_price": "MYR59.00",
+            "price": "MYR59.00",
+            "base_special_price": "MYR53.10",
+            "special_price": "MYR53.10",
+            "is_in_stock": true,
+            "qty": 19
+          }
+        ],
+        "categories": [
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 5469,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Special Collections"
+          },
+          {
+            "id": 4789,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "New In"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 2918,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "What's New"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 4947,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Campaign"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4629,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Accessories"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 5748,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "New Year Sale 2022 | Spend RM250, Get 15% OFF"
+          },
+          {
+            "id": 5272,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "LILIT. x Mira Filzah"
+          },
+          {
+            "id": 5301,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "LILIT. x Mira Filzah"
+          },
+          {
+            "id": 5573,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Dickies"
+          },
+          {
+            "id": 3613,
+            "parent_id": 2918,
+            "level": 4,
+            "name": "Tops"
+          },
+          {
+            "id": 5475,
+            "parent_id": 5469,
+            "level": 4,
+            "name": "LILIT. x Mira Filzah"
+          },
+          {
+            "id": 4791,
+            "parent_id": 4789,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 5131,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 3955,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "Innerwear"
+          },
+          {
+            "id": 5306,
+            "parent_id": 5301,
+            "level": 5,
+            "name": "Tops"
+          },
+          {
+            "id": 5144,
+            "parent_id": 5131,
+            "level": 5,
+            "name": "Ribbed Dickie"
+          },
+          {
+            "id": 5755,
+            "parent_id": 5748,
+            "level": 5,
+            "name": "Accessories"
+          },
+          {
+            "id": 5694,
+            "parent_id": 5573,
+            "level": 5,
+            "name": "Ribbed Dickie"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": "LILIT. x Mira Filzah",
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR8.85/month",
+        "extra_info": [
+          "<b>MYR17.70</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR8.85</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR13.28</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 323617,
+        "sku": "77204062102",
+        "url_key": "https://www.lilitstore.com/ribbed-bib-in-dusty-pink",
+        "name": "Ribbed Bib in Dusty Pink",
+        "is_tnbl_applicable": false,
+        "is_on_sale": true,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": "SPEND RM250, GET 15% OFF",
+        "color": "Pink",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR59.00",
+        "price": "MYR59.00",
+        "related_product_label": "More colours for Ribbed Bib",
+        "base_special_price": "MYR53.10",
+        "special_price": "MYR53.10",
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062102.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062102_1_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062102_2_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062102_3_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062102_4_.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062102.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062102.jpg",
+        "video": null,
+        "video_id": null,
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/7/7/77204062102.jpg",
+        "options": [
+          {
+            "id": 323616,
+            "sku": "77204062102-OS",
+            "name": "Ribbed Bib in Dusty Pink-OS",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 1414,
+            "label": "One Size",
+            "base_price": "MYR59.00",
+            "price": "MYR59.00",
+            "base_special_price": "MYR53.10",
+            "special_price": "MYR53.10",
+            "is_in_stock": true,
+            "qty": 59
+          }
+        ],
+        "categories": [
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 5469,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Special Collections"
+          },
+          {
+            "id": 4789,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "New In"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 2918,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "What's New"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 4947,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Campaign"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4629,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Accessories"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 5748,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "New Year Sale 2022 | Spend RM250, Get 15% OFF"
+          },
+          {
+            "id": 5272,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "LILIT. x Mira Filzah"
+          },
+          {
+            "id": 3613,
+            "parent_id": 2918,
+            "level": 4,
+            "name": "Tops"
+          },
+          {
+            "id": 5573,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Dickies"
+          },
+          {
+            "id": 5301,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "LILIT. x Mira Filzah"
+          },
+          {
+            "id": 5475,
+            "parent_id": 5469,
+            "level": 4,
+            "name": "LILIT. x Mira Filzah"
+          },
+          {
+            "id": 4791,
+            "parent_id": 4789,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 5131,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 2998,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "Tops"
+          },
+          {
+            "id": 5306,
+            "parent_id": 5301,
+            "level": 5,
+            "name": "Tops"
+          },
+          {
+            "id": 5144,
+            "parent_id": 5131,
+            "level": 5,
+            "name": "Ribbed Dickie"
+          },
+          {
+            "id": 5755,
+            "parent_id": 5748,
+            "level": 5,
+            "name": "Accessories"
+          },
+          {
+            "id": 5694,
+            "parent_id": 5573,
+            "level": 5,
+            "name": "Ribbed Dickie"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": "LILIT. x Mira Filzah",
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR8.85/month",
+        "extra_info": [
+          "<b>MYR17.70</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR8.85</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR13.28</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 298489,
+        "sku": "07721402001",
+        "url_key": "https://www.lilitstore.com/ribbed-turtleneck-dickie-in-off-white",
+        "name": "Ribbed Turtleneck Dickie in Off White",
+        "is_tnbl_applicable": false,
+        "is_on_sale": true,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": "SPEND RM250, GET 15% OFF",
+        "color": "White",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR39.00",
+        "price": "MYR39.00",
+        "related_product_label": "More colours for Ribbed Turtleneck Dickie",
+        "base_special_price": "MYR35.10",
+        "special_price": "MYR35.10",
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-020_copy_1.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/r/i/ribbed_dickie_3_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/r/i/ribbed_dickie_1_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/r/i/ribbed_dickie_2_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/r/i/ribbed_dickie_4_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-022_copy.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-020_copy_1.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-020_copy_1.jpg",
+        "video": "https://www.youtube.com/watch?v=https://images.lilitstore.com/media/lilit/videos/07721402001.mp4",
+        "video_id": "https://images.lilitstore.com/media/lilit/videos/07721402001.mp4",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-020_copy_1.jpg",
+        "options": [
+          {
+            "id": 298488,
+            "sku": "07721402001-FS",
+            "name": "Ribbed Turtleneck Dickie in Off White-FS",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 630,
+            "label": "Free Size",
+            "base_price": "MYR39.00",
+            "price": "MYR39.00",
+            "base_special_price": "MYR35.10",
+            "special_price": "MYR35.10",
+            "is_in_stock": true,
+            "qty": 3
+          }
+        ],
+        "categories": [
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4131,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Add These Items Under RM50"
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 3337,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Campaigns"
+          },
+          {
+            "id": 11,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Brands"
+          },
+          {
+            "id": 3438,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Back In Stock"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4945,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Add These Items Under RM50"
+          },
+          {
+            "id": 4789,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "New In"
+          },
+          {
+            "id": 4947,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Campaign"
+          },
+          {
+            "id": 5562,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Best Sellers"
+          },
+          {
+            "id": 4984,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. KL East"
+          },
+          {
+            "id": 4379,
+            "parent_id": 3337,
+            "level": 3,
+            "name": "Duduk Rumah Sale 3.0 | Flash Sale"
+          },
+          {
+            "id": 4374,
+            "parent_id": 3337,
+            "level": 3,
+            "name": "DUDUK RUMAH 3.0 | Flash Sale"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 2758,
+            "parent_id": 11,
+            "level": 3,
+            "name": "LILIT."
+          },
+          {
+            "id": 2918,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "What's New"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 4629,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Accessories"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 4416,
+            "parent_id": 4379,
+            "level": 4,
+            "name": "FLASH SALE | 30% OFF LILIT."
+          },
+          {
+            "id": 5131,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 4791,
+            "parent_id": 4789,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 5748,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "New Year Sale 2022 | Spend RM250, Get 15% OFF"
+          },
+          {
+            "id": 5573,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Dickies"
+          },
+          {
+            "id": 5628,
+            "parent_id": 5562,
+            "level": 4,
+            "name": "Accessories"
+          },
+          {
+            "id": 4181,
+            "parent_id": 3,
+            "level": 4,
+            "name": "Innerwear"
+          },
+          {
+            "id": 5437,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "Malaysia Day Weekend Special | FLASH SALE"
+          },
+          {
+            "id": 5436,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "Malaysia Day Weekend Special!"
+          },
+          {
+            "id": 3613,
+            "parent_id": 2918,
+            "level": 4,
+            "name": "Tops"
+          },
+          {
+            "id": 5269,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "Modest Solution"
+          },
+          {
+            "id": 3955,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "Innerwear"
+          },
+          {
+            "id": 5755,
+            "parent_id": 5748,
+            "level": 5,
+            "name": "Accessories"
+          },
+          {
+            "id": 3638,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "New Launch"
+          },
+          {
+            "id": 5144,
+            "parent_id": 5131,
+            "level": 5,
+            "name": "Ribbed Dickie"
+          },
+          {
+            "id": 5694,
+            "parent_id": 5573,
+            "level": 5,
+            "name": "Ribbed Dickie"
+          },
+          {
+            "id": 5636,
+            "parent_id": 5628,
+            "level": 5,
+            "name": "Dickies"
+          },
+          {
+            "id": 5656,
+            "parent_id": 5636,
+            "level": 6,
+            "name": "Ribbed Dickie"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": "ACCESSORIES",
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR5.85/month",
+        "extra_info": [
+          "<b>MYR11.70</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR5.85</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR8.78</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 316677,
+        "sku": "07721601103",
+        "url_key": "https://www.lilitstore.com/shirt-dickie-in-nude",
+        "name": "Shirt Dickie in Nude",
+        "is_tnbl_applicable": false,
+        "is_on_sale": true,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": "SPEND RM250, GET 15% OFF",
+        "color": "Cream",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR39.00",
+        "price": "MYR39.00",
+        "related_product_label": "More Colours for Shirt Dickie",
+        "base_special_price": "MYR35.10",
+        "special_price": "MYR35.10",
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-044_copy.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/0/7/07721601103_1_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/0/7/07721601103_6_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/0/7/07721601103_3_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/0/7/07721601103_4_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/0/7/07721601103_5_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/0/7/07721601103_7_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/0/7/07721601103_2_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-047_copy.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-044_copy.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-044_copy.jpg",
+        "video": "https://www.youtube.com/watch?v=https://images.lilitstore.com/media/lilit/videos/07721601103.mp4",
+        "video_id": "https://images.lilitstore.com/media/lilit/videos/07721601103.mp4",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-044_copy.jpg",
+        "options": [
+          {
+            "id": 316676,
+            "sku": "07721601103-OS",
+            "name": "Shirt Dickie in Nude-OS",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 1414,
+            "label": "One Size",
+            "base_price": "MYR39.00",
+            "price": "MYR39.00",
+            "base_special_price": "MYR35.10",
+            "special_price": "MYR35.10",
+            "is_in_stock": true,
+            "qty": 135
+          }
+        ],
+        "categories": [
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 11,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Brands"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 5562,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Best Sellers"
+          },
+          {
+            "id": 4947,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Campaign"
+          },
+          {
+            "id": 4945,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Add These Items Under RM50"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 4984,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. KL East"
+          },
+          {
+            "id": 2758,
+            "parent_id": 11,
+            "level": 3,
+            "name": "LILIT."
+          },
+          {
+            "id": 4629,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Accessories"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 5748,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "New Year Sale 2022 | Spend RM250, Get 15% OFF"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 5269,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "Modest Solution"
+          },
+          {
+            "id": 5628,
+            "parent_id": 5562,
+            "level": 4,
+            "name": "Accessories"
+          },
+          {
+            "id": 5573,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Dickies"
+          },
+          {
+            "id": 5131,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 5139,
+            "parent_id": 5131,
+            "level": 5,
+            "name": "Dickie"
+          },
+          {
+            "id": 2998,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "Tops"
+          },
+          {
+            "id": 3638,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "New Launch"
+          },
+          {
+            "id": 5695,
+            "parent_id": 5573,
+            "level": 5,
+            "name": "Shirt Dickie"
+          },
+          {
+            "id": 5755,
+            "parent_id": 5748,
+            "level": 5,
+            "name": "Accessories"
+          },
+          {
+            "id": 5636,
+            "parent_id": 5628,
+            "level": 5,
+            "name": "Dickies"
+          },
+          {
+            "id": 5657,
+            "parent_id": 5636,
+            "level": 6,
+            "name": "Shirt Dickie"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": "ACCESSORIES",
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR5.85/month",
+        "extra_info": [
+          "<b>MYR11.70</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR5.85</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR8.78</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 316681,
+        "sku": "07721601104",
+        "url_key": "https://www.lilitstore.com/shirt-dickie-in-khaki",
+        "name": "Shirt Dickie in Khaki",
+        "is_tnbl_applicable": false,
+        "is_on_sale": true,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": "SPEND RM250, GET 15% OFF",
+        "color": "Brown",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR39.00",
+        "price": "MYR39.00",
+        "related_product_label": "More Colours for Shirt Dickie",
+        "base_special_price": "MYR35.10",
+        "special_price": "MYR35.10",
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-041_copy.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/0/7/07721601104_1_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/0/7/07721601104_4_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/0/7/07721601104_2_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/0/7/07721601104_3_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/0/7/07721601104_5_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/0/7/07721601104_6_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/0/7/07721601104_7_.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-035_copy.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-041_copy.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-041_copy.jpg",
+        "video": "https://www.youtube.com/watch?v=https://images.lilitstore.com/media/lilit/videos/07721601104.mp4",
+        "video_id": "https://images.lilitstore.com/media/lilit/videos/07721601104.mp4",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-041_copy.jpg",
+        "options": [
+          {
+            "id": 316680,
+            "sku": "07721601104-OS",
+            "name": "Shirt Dickie in Khaki-OS",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 1414,
+            "label": "One Size",
+            "base_price": "MYR39.00",
+            "price": "MYR39.00",
+            "base_special_price": "MYR35.10",
+            "special_price": "MYR35.10",
+            "is_in_stock": true,
+            "qty": 74
+          }
+        ],
+        "categories": [
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 11,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Brands"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 5562,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Best Sellers"
+          },
+          {
+            "id": 4947,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Campaign"
+          },
+          {
+            "id": 4945,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Add These Items Under RM50"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 4984,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. KL East"
+          },
+          {
+            "id": 2758,
+            "parent_id": 11,
+            "level": 3,
+            "name": "LILIT."
+          },
+          {
+            "id": 4629,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Accessories"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 5748,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "New Year Sale 2022 | Spend RM250, Get 15% OFF"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 5269,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "Modest Solution"
+          },
+          {
+            "id": 5628,
+            "parent_id": 5562,
+            "level": 4,
+            "name": "Accessories"
+          },
+          {
+            "id": 5573,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Dickies"
+          },
+          {
+            "id": 5131,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 5139,
+            "parent_id": 5131,
+            "level": 5,
+            "name": "Dickie"
+          },
+          {
+            "id": 2998,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "Tops"
+          },
+          {
+            "id": 3638,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "New Launch"
+          },
+          {
+            "id": 5695,
+            "parent_id": 5573,
+            "level": 5,
+            "name": "Shirt Dickie"
+          },
+          {
+            "id": 5755,
+            "parent_id": 5748,
+            "level": 5,
+            "name": "Accessories"
+          },
+          {
+            "id": 5636,
+            "parent_id": 5628,
+            "level": 5,
+            "name": "Dickies"
+          },
+          {
+            "id": 5657,
+            "parent_id": 5636,
+            "level": 6,
+            "name": "Shirt Dickie"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": "ACCESSORIES",
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR5.85/month",
+        "extra_info": [
+          "<b>MYR11.70</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR5.85</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR8.78</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 316673,
+        "sku": "07721601101",
+        "url_key": "https://www.lilitstore.com/shirt-dickie-in-off-white",
+        "name": "Shirt Dickie in Off-White",
+        "is_tnbl_applicable": false,
+        "is_on_sale": true,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": "SPEND RM250, GET 15% OFF",
+        "color": "White",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR39.00",
+        "price": "MYR39.00",
+        "related_product_label": "More Colours for Shirt Dickie",
+        "base_special_price": "MYR35.10",
+        "special_price": "MYR35.10",
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-026_copy.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white_1_1.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white_b_1.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white1_1.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-024_copy.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white_a_1.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white_c_1.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white_d_1.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-026_copy.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-026_copy.jpg",
+        "video": "https://www.youtube.com/watch?v=https://images.lilitstore.com/media/lilit/videos/07721601101.mp4",
+        "video_id": "https://images.lilitstore.com/media/lilit/videos/07721601101.mp4",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-026_copy.jpg",
+        "options": [
+          {
+            "id": 316672,
+            "sku": "07721601101-OS",
+            "name": "Shirt Dickie in Off-White-OS",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 1414,
+            "label": "One Size",
+            "base_price": "MYR39.00",
+            "price": "MYR39.00",
+            "base_special_price": "MYR35.10",
+            "special_price": "MYR35.10",
+            "is_in_stock": true,
+            "qty": 296
+          }
+        ],
+        "categories": [
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 11,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Brands"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 5562,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Best Sellers"
+          },
+          {
+            "id": 4947,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Campaign"
+          },
+          {
+            "id": 4945,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Add These Items Under RM50"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 4984,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. KL East"
+          },
+          {
+            "id": 2758,
+            "parent_id": 11,
+            "level": 3,
+            "name": "LILIT."
+          },
+          {
+            "id": 4629,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Accessories"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 5748,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "New Year Sale 2022 | Spend RM250, Get 15% OFF"
+          },
+          {
+            "id": 5269,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "Modest Solution"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 13,
+            "parent_id": 3,
+            "level": 4,
+            "name": "Tops"
+          },
+          {
+            "id": 5628,
+            "parent_id": 5562,
+            "level": 4,
+            "name": "Accessories"
+          },
+          {
+            "id": 5573,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Dickies"
+          },
+          {
+            "id": 5131,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 5139,
+            "parent_id": 5131,
+            "level": 5,
+            "name": "Dickie"
+          },
+          {
+            "id": 2998,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "Tops"
+          },
+          {
+            "id": 3638,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "New Launch"
+          },
+          {
+            "id": 5695,
+            "parent_id": 5573,
+            "level": 5,
+            "name": "Shirt Dickie"
+          },
+          {
+            "id": 5755,
+            "parent_id": 5748,
+            "level": 5,
+            "name": "Accessories"
+          },
+          {
+            "id": 5636,
+            "parent_id": 5628,
+            "level": 5,
+            "name": "Dickies"
+          },
+          {
+            "id": 5657,
+            "parent_id": 5636,
+            "level": 6,
+            "name": "Shirt Dickie"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": "ACCESSORIES",
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR5.85/month",
+        "extra_info": [
+          "<b>MYR11.70</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR5.85</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR8.78</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 316675,
+        "sku": "07721601102",
+        "url_key": "https://www.lilitstore.com/shirt-dickie-in-black",
+        "name": "Shirt Dickie in Black",
+        "is_tnbl_applicable": false,
+        "is_on_sale": true,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": "SPEND RM250, GET 15% OFF",
+        "color": "Black",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR39.00",
+        "price": "MYR39.00",
+        "related_product_label": "More Colours for Shirt Dickie",
+        "base_special_price": "MYR35.10",
+        "special_price": "MYR35.10",
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-030_copy_1.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/s/h/shirt_dickey_in_black_1_1.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/s/h/shirt_dickey_in_black_c_1.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-033_copy_1.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/s/h/shirt_dickey_in_black_2.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/s/h/shirt_dickey_in_black_a_1.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/s/h/shirt_dickey_in_black_b_1.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-030_copy_1.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-030_copy_1.jpg",
+        "video": "https://www.youtube.com/watch?v=https://images.lilitstore.com/media/lilit/videos/07721601102.mp4",
+        "video_id": "https://images.lilitstore.com/media/lilit/videos/07721601102.mp4",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/l/i/lilit_shirt_dickie_product-030_copy_1.jpg",
+        "options": [
+          {
+            "id": 316674,
+            "sku": "07721601102-OS",
+            "name": "Shirt Dickie in Black-OS",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 1414,
+            "label": "One Size",
+            "base_price": "MYR39.00",
+            "price": "MYR39.00",
+            "base_special_price": "MYR35.10",
+            "special_price": "MYR35.10",
+            "is_in_stock": true,
+            "qty": 60
+          }
+        ],
+        "categories": [
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 4116,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Stores"
+          },
+          {
+            "id": 11,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Brands"
+          },
+          {
+            "id": 4985,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. IOI"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 5562,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Best Sellers"
+          },
+          {
+            "id": 4947,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Campaign"
+          },
+          {
+            "id": 4945,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Add These Items Under RM50"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 4806,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Collections"
+          },
+          {
+            "id": 4984,
+            "parent_id": 4116,
+            "level": 3,
+            "name": "LILIT. KL East"
+          },
+          {
+            "id": 2758,
+            "parent_id": 11,
+            "level": 3,
+            "name": "LILIT."
+          },
+          {
+            "id": 4629,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Accessories"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 5748,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "New Year Sale 2022 | Spend RM250, Get 15% OFF"
+          },
+          {
+            "id": 5269,
+            "parent_id": 4806,
+            "level": 4,
+            "name": "Modest Solution"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 13,
+            "parent_id": 3,
+            "level": 4,
+            "name": "Tops"
+          },
+          {
+            "id": 5628,
+            "parent_id": 5562,
+            "level": 4,
+            "name": "Accessories"
+          },
+          {
+            "id": 5573,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Dickies"
+          },
+          {
+            "id": 5131,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 5139,
+            "parent_id": 5131,
+            "level": 5,
+            "name": "Dickie"
+          },
+          {
+            "id": 2998,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "Tops"
+          },
+          {
+            "id": 3638,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "New Launch"
+          },
+          {
+            "id": 5695,
+            "parent_id": 5573,
+            "level": 5,
+            "name": "Shirt Dickie"
+          },
+          {
+            "id": 5755,
+            "parent_id": 5748,
+            "level": 5,
+            "name": "Accessories"
+          },
+          {
+            "id": 5636,
+            "parent_id": 5628,
+            "level": 5,
+            "name": "Dickies"
+          },
+          {
+            "id": 5657,
+            "parent_id": 5636,
+            "level": 6,
+            "name": "Shirt Dickie"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": "ACCESSORIES",
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR5.85/month",
+        "extra_info": [
+          "<b>MYR11.70</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR5.85</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR8.78</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 299867,
+        "sku": "07720703001",
+        "url_key": "https://www.lilitstore.com/product/07720703001",
+        "name": "High Neck Ruffle Dickie in Black",
+        "is_tnbl_applicable": false,
+        "is_on_sale": true,
+        "is_new_product": true,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": "SPEND RM250, GET 15% OFF",
+        "color": "Black",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR39.00",
+        "price": "MYR39.00",
+        "related_product_label": "Other Colours for High Neck Ruffle Dickie",
+        "base_special_price": "MYR35.10",
+        "special_price": "MYR35.10",
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/r/u/ruffle_dickey_in_black_copy1.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/r/u/ruffle_dickey_a.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/r/u/ruffle_dickey_b.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/r/u/ruffle_dickey_c.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/r/u/ruffle_dickey_in_black.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/r/u/ruffle_dickey_in_black_copy1.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/r/u/ruffle_dickey_in_black_copy1.jpg",
+        "video": "https://www.youtube.com/watch?v=https://images.lilitstore.com/media/lilit/videos/07720703001.mp4",
+        "video_id": "https://images.lilitstore.com/media/lilit/videos/07720703001.mp4",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/r/u/ruffle_dickey_in_black_copy1.jpg",
+        "options": [
+          {
+            "id": 299866,
+            "sku": "07720703001-FS",
+            "name": "High Neck Ruffle Dickie in Black-FS",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 630,
+            "label": "Free Size",
+            "base_price": "MYR39.00",
+            "price": "MYR39.00",
+            "base_special_price": "MYR35.10",
+            "special_price": "MYR35.10",
+            "is_in_stock": true,
+            "qty": 2
+          }
+        ],
+        "categories": [
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 4131,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Add These Items Under RM50"
+          },
+          {
+            "id": 3337,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Campaigns"
+          },
+          {
+            "id": 11,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Brands"
+          },
+          {
+            "id": 2758,
+            "parent_id": 11,
+            "level": 3,
+            "name": "LILIT."
+          },
+          {
+            "id": 4629,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Accessories"
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 5562,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Best Sellers"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 4947,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Campaign"
+          },
+          {
+            "id": 4379,
+            "parent_id": 3337,
+            "level": 3,
+            "name": "Duduk Rumah Sale 3.0 | Flash Sale"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 4374,
+            "parent_id": 3337,
+            "level": 3,
+            "name": "DUDUK RUMAH 3.0 | Flash Sale"
+          },
+          {
+            "id": 4945,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Add These Items Under RM50"
+          },
+          {
+            "id": 5748,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "New Year Sale 2022 | Spend RM250, Get 15% OFF"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 5437,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "Malaysia Day Weekend Special | FLASH SALE"
+          },
+          {
+            "id": 5436,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "Malaysia Day Weekend Special!"
+          },
+          {
+            "id": 13,
+            "parent_id": 3,
+            "level": 4,
+            "name": "Tops"
+          },
+          {
+            "id": 5573,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Dickies"
+          },
+          {
+            "id": 5628,
+            "parent_id": 5562,
+            "level": 4,
+            "name": "Accessories"
+          },
+          {
+            "id": 5131,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 4416,
+            "parent_id": 4379,
+            "level": 4,
+            "name": "FLASH SALE | 30% OFF LILIT."
+          },
+          {
+            "id": 5145,
+            "parent_id": 5131,
+            "level": 5,
+            "name": "Highneck Dickie"
+          },
+          {
+            "id": 5755,
+            "parent_id": 5748,
+            "level": 5,
+            "name": "Accessories"
+          },
+          {
+            "id": 3638,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "New Launch"
+          },
+          {
+            "id": 5636,
+            "parent_id": 5628,
+            "level": 5,
+            "name": "Dickies"
+          },
+          {
+            "id": 5657,
+            "parent_id": 5636,
+            "level": 6,
+            "name": "Shirt Dickie"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": "ACCESSORIES",
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR5.85/month",
+        "extra_info": [
+          "<b>MYR11.70</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR5.85</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR8.78</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      },
+      {
+        "id": 296592,
+        "sku": "077221012001",
+        "url_key": "https://www.lilitstore.com/product/077221012001",
+        "name": "Dickie in Off White",
+        "is_tnbl_applicable": false,
+        "is_on_sale": true,
+        "is_new_product": false,
+        "is_in_stock": true,
+        "is_phone_casing": false,
+        "is_preorder": 0,
+        "vip": 0,
+        "cta_color": "#FFF",
+        "cta_bg_color": "#000",
+        "cta_text": "SPEND RM250, GET 15% OFF",
+        "color": "White",
+        "brand": "LILIT.",
+        "brand_url": "https://www.fashionvalet.com/women/brands/lilit.html",
+        "base_price": "MYR39.00",
+        "price": "MYR39.00",
+        "related_product_label": "Other Colours for Dickie",
+        "base_special_price": "MYR35.10",
+        "special_price": "MYR35.10",
+        "images": [
+          "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white_1.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white_b.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white_a.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white_c.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white_d.jpg",
+          "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white1.jpg"
+        ],
+        "image": "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white_1.jpg",
+        "small_image": "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white_1.jpg",
+        "video": "https://www.youtube.com/watch?v=https://images.lilitstore.com/media/lilit/videos/077221012001.mp4",
+        "video_id": "https://images.lilitstore.com/media/lilit/videos/077221012001.mp4",
+        "video_tutorial": null,
+        "video_tutorial_id": null,
+        "thumbnail": "https://images.lilitstore.com/pub/media/catalog/product/d/i/dickey_shirt_in_off-white_1.jpg",
+        "options": [
+          {
+            "id": 296591,
+            "sku": "077221012001-FS",
+            "name": "Dickie in Off White-FS",
+            "option_id": 149,
+            "option_code": "size",
+            "option_value": 630,
+            "label": "Free Size",
+            "base_price": "MYR39.00",
+            "price": "MYR39.00",
+            "base_special_price": "MYR35.10",
+            "special_price": "MYR35.10",
+            "is_in_stock": true,
+            "qty": 1
+          }
+        ],
+        "categories": [
+          {
+            "id": 3337,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Campaigns"
+          },
+          {
+            "id": 4479,
+            "parent_id": 2,
+            "level": 2,
+            "name": "LILIT."
+          },
+          {
+            "id": 11,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Brands"
+          },
+          {
+            "id": 2914,
+            "parent_id": 2,
+            "level": 2,
+            "name": "Women"
+          },
+          {
+            "id": 2758,
+            "parent_id": 11,
+            "level": 3,
+            "name": "LILIT."
+          },
+          {
+            "id": 2977,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Brands"
+          },
+          {
+            "id": 3853,
+            "parent_id": 3337,
+            "level": 3,
+            "name": "LILIT. Essentials"
+          },
+          {
+            "id": 4626,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Basics"
+          },
+          {
+            "id": 5572,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Shop All Categories"
+          },
+          {
+            "id": 5562,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Best Sellers"
+          },
+          {
+            "id": 3,
+            "parent_id": 2914,
+            "level": 3,
+            "name": "Clothing"
+          },
+          {
+            "id": 4629,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Accessories"
+          },
+          {
+            "id": 4947,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Campaign"
+          },
+          {
+            "id": 4945,
+            "parent_id": 4479,
+            "level": 3,
+            "name": "Add These Items Under RM50"
+          },
+          {
+            "id": 2995,
+            "parent_id": 2977,
+            "level": 4,
+            "name": "LILIT."
+          },
+          {
+            "id": 5748,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "New Year Sale 2022 | Spend RM250, Get 15% OFF"
+          },
+          {
+            "id": 13,
+            "parent_id": 3,
+            "level": 4,
+            "name": "Tops"
+          },
+          {
+            "id": 5437,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "Malaysia Day Weekend Special | FLASH SALE"
+          },
+          {
+            "id": 5436,
+            "parent_id": 4947,
+            "level": 4,
+            "name": "Malaysia Day Weekend Special!"
+          },
+          {
+            "id": 5573,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Dickies"
+          },
+          {
+            "id": 5628,
+            "parent_id": 5562,
+            "level": 4,
+            "name": "Accessories"
+          },
+          {
+            "id": 5131,
+            "parent_id": 4629,
+            "level": 4,
+            "name": "Apparel"
+          },
+          {
+            "id": 2998,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "Tops"
+          },
+          {
+            "id": 318,
+            "parent_id": 13,
+            "level": 5,
+            "name": "Sleeveless"
+          },
+          {
+            "id": 5755,
+            "parent_id": 5748,
+            "level": 5,
+            "name": "Accessories"
+          },
+          {
+            "id": 5695,
+            "parent_id": 5573,
+            "level": 5,
+            "name": "Shirt Dickie"
+          },
+          {
+            "id": 3638,
+            "parent_id": 2995,
+            "level": 5,
+            "name": "New Launch"
+          },
+          {
+            "id": 5139,
+            "parent_id": 5131,
+            "level": 5,
+            "name": "Dickie"
+          },
+          {
+            "id": 5636,
+            "parent_id": 5628,
+            "level": 5,
+            "name": "Dickies"
+          },
+          {
+            "id": 5657,
+            "parent_id": 5636,
+            "level": 6,
+            "name": "Shirt Dickie"
+          }
+        ],
+        "is_wishlist_item": false,
+        "vertical_text": "ACCESSORIES",
+        "vertical_text_color": null,
+        "vertical_text_bg_color": null,
+        "extra_info_title": "Or pay as low as MYR5.85/month",
+        "extra_info": [
+          "<b>MYR11.70</b> x 3 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_atome.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.atome.my/how-it-works\" target=\"_blank\">Learn More</a><br/>",
+          "<b>MYR5.85</b> x 6 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_maybankard.svg\" style=\"margin-top: -5px;\"><br/>",
+          "<b>MYR8.78</b> x 4 interest-free instalments with <span> &nbsp; </span><img src=\"/images/payments/ico-fv_grabpay.svg\" style=\"margin-top: -5px;\"><span> &nbsp; </span> <a href=\"https://www.grab.com/my/finance/pay-later/\" target=\"_blank\">Learn More</a><br/>"
+        ],
+        "color_variants": [],
+        "personalization": {
+          "enable": false,
+          "type": "",
+          "limit": null,
+          "icon": false,
+          "colors": []
+        },
+        "product_bundle": null,
+        "reviews": {
+          "total": 0,
+          "star": 0
+        }
+      }
+    ]
+  }
