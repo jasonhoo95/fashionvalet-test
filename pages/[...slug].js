@@ -4,12 +4,6 @@ import CardView from "../components/cardView";
 import DetailsView from "../components/detailsView";
 import _ from "lodash";
 export default function ProductDetails({ data, type }) {
-	const [state, setState] = useState({
-		listData: [],
-	});
-	useEffect(() => {
-		setState({ listData: data });
-	}, [data]);
 	return (
 		<div>
 			{type == "details" ? (
@@ -22,7 +16,7 @@ export default function ProductDetails({ data, type }) {
 					<h1 className="text-center text-bold text-4xl uppercase">{type}</h1>
 
 					<div style={{ margin: "20px" }} class="grid grid-cols-3 gap-3 sm:grid-cols-1 sm:gap-1">
-						{state.listData.map((o, key) => {
+						{data.map((o, key) => {
 							return <CardView data={o} type={type} />;
 						})}
 					</div>
